@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 Estou trabalhando como QA.
-- 🌱 Estou trabalhando como desenvolvedor wordpress. 
 - 👯 Estou estudando desenvolvimento front-end e teste automatizado ...
  <div style="display: inline_block>
   <a href="https://github.com/CedricArnaud20">
